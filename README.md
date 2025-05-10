@@ -12,7 +12,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Me segue a gente nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/@luupy1793?si=D47D5zBRvQ_s5fCN" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
